@@ -17,22 +17,10 @@
 courseNo  score1, score2, ..., scoreN –999
 
 courseNo  score1, score2, ..., scoreM –999
-...
+....
 
-The output is of the form
-
-Course# 	Group#		Course Average
-
-   A		 1		    	80.50
-   
-		 2	    		82.75
-		 
-   B 	     	 1 		    	78.00
-   
-  		 2           		75.35
-		     
 
 
 Input: Because data for the two groups are recorded in separate files, input data appear in two separate files.
 
-Output: As shown above.
+Output: table.
