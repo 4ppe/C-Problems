@@ -43,7 +43,6 @@ void rotate(string& str){
     char temp = str[0];                 
     int len = str.length();
     str = str.substr(1,len-1) + temp;
-
 }
 
 
@@ -72,8 +71,6 @@ void pigLatinString(string& str){
             return;
         }
     }
-
 	rotate(str);
 	str = str + "way";
-
 }
